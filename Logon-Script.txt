@@ -1,0 +1,2 @@
+for /f "Tokens=2 Delims=[]" %%i in ('ping -4 -n 1 "%computername%"') do set IP=%%i
+echo %username% logged ON %computername%, IP=%IP% @ %time% %date% >> <Location of File>
