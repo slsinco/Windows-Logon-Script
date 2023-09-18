@@ -1,6 +1,6 @@
 # Windows Logon Script
 
-Batch Logon Script to save Users Logon History
+Batch Logon Script to save Users Logon History.
 Results are saved to a file specified inside the script.
 
 ## Configuration
